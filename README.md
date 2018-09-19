@@ -1,0 +1,3 @@
+# Game-of-Reaction
+This is a small javaScript game...
+Just a bit of javaScript for beginners
